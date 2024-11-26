@@ -14,7 +14,7 @@
 		76CDE33A2CF34E2C000D7A0E /* Exceptions for "ClassQuote" folder in "ClassQuote" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				"Supporting Files/Info.plist",
 			);
 			target = 76CDE3272CF34E28000D7A0E /* ClassQuote */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = DQFZB97R5H;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ClassQuote/Info.plist;
+				INFOPLIST_FILE = "ClassQuote/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -175,7 +175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = DQFZB97R5H;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ClassQuote/Info.plist;
+				INFOPLIST_FILE = "ClassQuote/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
